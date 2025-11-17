@@ -32,7 +32,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/hW_mTYy_zS4AAAAj/gojo-satoru.gif"  />
+<img align="right" height="150" src="https://media.tenor.com/hW_mTYy_zS4AAAAe/gojo-satoru.png"  />
 
 ###
 
@@ -46,7 +46,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/snake.svg" alt="Snake animation" />
+<img src="https://cdn.inspireuplift.com/uploads/images/seller_products/31564/1702636748_GojoSatoru1.png" alt="GOJO" />
 
 ###
 
