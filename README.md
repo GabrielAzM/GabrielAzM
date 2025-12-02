@@ -43,23 +43,8 @@ Sou um desenvolvedor focado em criar aplicações modernas e performáticas. Sem
 ### 📈 Minhas estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielAzM&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAzM&layout=compact&theme=radical" />
-</div>
-
----
-
-### 🎯 Ferramentas / Testes
-
-<div align="center">
-  <img 
-       height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=GabrielAzM&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
-  />
-  <img 
-       height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAzM&layout=compact&theme=tokyonight" 
-  />
+  <img height="180em" src="https://github-readme-stats-rickstaa.vercel.app/api?username=GabrielAzM&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=GabrielAzM&layout=compact&theme=tokyonight" />
 </div>
 
 ---
