@@ -21,7 +21,7 @@ Sou um desenvolvedor focado em criar aplicações modernas e performáticas. Sem
 ### 🌐 Onde me encontrar
 
 <div align="center">
-  <a href="https://www.instagram.com/" target="_blank">
+  <a href="https://www.instagram.com/](https://www.instagram.com/gabrielzvdm/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&style=for-the-badge" height="35" />
   </a>
   <a href="https://www.linkedin.com/in/gabrielazevedomarques" target="_blank">
